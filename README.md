@@ -14,4 +14,4 @@ Click on the "generate mockup" button, wait a few seconds and when the browser s
 
 # Screenshots
 
-![functioning](https://drive.google.com/uc?id=11hdtjLipa8d58dro1XZZ-QLSuhS_uVr5)
+![functioning](https://drive.google.com/uc?id=1fvnF7iMIKpL52nuB3O0544mdMAL4pDjB)
